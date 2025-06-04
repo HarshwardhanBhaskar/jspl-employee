@@ -1,0 +1,8 @@
+{
+  "name": "JSPL(Employee)",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dd3428e7"
+}
